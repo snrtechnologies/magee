@@ -1,0 +1,9 @@
+.customize-control-widget_form .widget-control-save {
+    display:block !important;
+}
+
+#accordion-section-header_image,
+#accordion-section-background_image,
+#accordion-section-colors{
+    display: none !important;
+}

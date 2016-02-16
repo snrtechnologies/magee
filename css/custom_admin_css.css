@@ -1,0 +1,4 @@
+.customize-support #menu-appearance a[href$="background_image"], 
+.customize-support #menu-appearance a[href$="header_image"] { 
+    display: none !important; 
+} 
