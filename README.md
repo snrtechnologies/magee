@@ -1,0 +1,2 @@
+# magee
+WordPress Theme Magee
