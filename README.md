@@ -32,9 +32,9 @@ Usage:
 Some Screenshots:
 -------------
 
-[Theme Customizer](http://www.snr-technologies.com/wp-content/uploads/2016/01/Magee_Free_WordPress_Theme_Customizer.png)
+![Theme Customizer Screenshot](http://www.snr-technologies.com/wp-content/uploads/2016/01/Magee_Free_WordPress_Theme_Customizer.png)
 
-[Theme Screenshot](http://www.snr-technologies.com/wp-content/uploads/2016/01/screenshot.png)
+![Theme Screenshot](http://www.snr-technologies.com/wp-content/uploads/2016/01/screenshot.png)
 
 [Theme Demo](http://104.131.245.61/mageev2/)
 
